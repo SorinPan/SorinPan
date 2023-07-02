@@ -2,7 +2,7 @@
 
 ## Hi there!👋
 
-I'm Sorin, currently a student at Code Institute 👋
+I'm Sorin Panait, currently a student at Code Institute 👋
 
 I have a passion for both front-end and back-end development and I look forward to developing my skills. The road ahead may be challenging, but I'm determined to see it through.
 
