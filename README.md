@@ -1,4 +1,4 @@
-![Masterhead](https://pixabay.com/sv/photos/teknologi-dator-koda-javascript-1283624/)
+![Masterhead](https://github.com/SorinPan/SorinPan/blob/main/github-banner.png)
 
 ## Hi there!👋
 
