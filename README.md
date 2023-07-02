@@ -2,7 +2,7 @@
 
 ## Hi there!👋
 
-I'm Sorin Panait, currently a student at Code Institute 👋
+I'm Sorin, currently a student at Code Institute 👋
 
 I have a passion for both front-end and back-end development and I look forward to developing my skills. The road ahead may be challenging, but I'm determined to see it through.
 
@@ -35,7 +35,7 @@ Besides learning, I enjoy going to the gym, a good book, and sometimes grabbing 
 
 <br>
 
-## 📊 Stats:
+## 🔥 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SorinPan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SorinPan&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SorinPan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
